@@ -9,3 +9,5 @@ This is an exercise
 
 
 New line
+
+Another new line from Github interface
