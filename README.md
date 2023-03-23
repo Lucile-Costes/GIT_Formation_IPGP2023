@@ -12,4 +12,9 @@ New line
 
 Another new line from Github interface
 
+<<<<<<< HEAD
 Encore !!!
+=======
+
+Local change to create conflicts !
+>>>>>>> 3b4ff9c (Local modification of README.md)
